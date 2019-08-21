@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="path_smoothing" type="path_smoothing_main.py" name="path_smoothing_node" output="screen" />
+</launch>
